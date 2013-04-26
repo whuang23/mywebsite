@@ -1,3 +1,0 @@
-<?php
-GOTO("/wordpress/index.php");
-?>
